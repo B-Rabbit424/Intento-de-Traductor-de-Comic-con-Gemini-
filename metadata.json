@@ -1,0 +1,5 @@
+{
+  "name": "Comic Translator Webtoon Viewer",
+  "description": "An application that uses AI to translate text from comic book images and displays them in a vertical, webtoon-style viewer for an easy reading experience.",
+  "requestFramePermissions": []
+}
